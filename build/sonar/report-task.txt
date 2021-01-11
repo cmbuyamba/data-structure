@@ -1,0 +1,6 @@
+projectKey=test-sonarqube
+serverUrl=http://127.0.0.1:9000
+serverVersion=8.6.0.39681
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=test-sonarqube
+ceTaskId=AXZp5e970SDiW33zI0fT
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AXZp5e970SDiW33zI0fT

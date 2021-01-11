@@ -1,0 +1,13 @@
+
+S	java:S106_"9Replace this use of System.out or System.err by a logger.(µËÍÛıÿÿÿÿ
+V	java:S125^"<This block of commented-out lines of code should be removed.(ËÓÙûÿÿÿÿ
+f
+java:S1149E"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Ç¤í
+D
+java:S37404"/Provide the parametrized type for this generic.(çÈ†
+S	java:S106a"9Replace this use of System.out or System.err by a logger.(Şğ¨–şÿÿÿÿ
+k
+java:S1149F"PReplace the synchronized class "Stack" by an unsynchronized one such as "Deque".(Í™ÿ¡øÿÿÿÿ
+Q	java:S125`"<This block of commented-out lines of code should be removed.(ä°¹é
+A
+java:S1168?"+Return an empty collection instead of null.(¥¹ï
